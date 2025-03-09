@@ -7,7 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-03-09 19:46:05 +0000",
       "minecraft:taiga": "2025-03-09 17:23:24 +0000",
+      "minecraft:cherry_grove": "2025-03-09 19:47:30 +0000",
       "minecraft:river": "2025-03-09 17:23:22 +0000",
       "minecraft:forest": "2025-03-09 17:20:07 +0000",
       "minecraft:deep_cold_ocean": "2025-03-09 17:24:12 +0000",
@@ -322,6 +324,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-03-09 19:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-09 19:48:44 +0000"
     },
     "done": true
   },

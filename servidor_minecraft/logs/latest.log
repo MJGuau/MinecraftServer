@@ -1,16 +1,16 @@
-[09Mar2025 19:00:04.466] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[09Mar2025 19:00:04.471] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[09Mar2025 19:00:06.184] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[09Mar2025 19:00:06.256] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MinecraftServer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[09Mar2025 19:00:06.699] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[09Mar2025 19:00:06.701] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Mar2025 19:00:06.703] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Mar2025 19:00:06.705] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Mar2025 19:00:07.166] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 17 dependencies adding them to mods collection
-[09Mar2025 19:00:10.886] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[09Mar2025 19:00:11.179] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[09Mar2025 19:00:11.683] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
-[09Mar2025 19:00:11.810] [main/INFO] [Puzzles Lib/]: Loading 53 mods:
+[09Mar2025 19:29:17.702] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[09Mar2025 19:29:17.707] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[09Mar2025 19:29:18.470] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[09Mar2025 19:29:18.540] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MinecraftServer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[09Mar2025 19:29:19.081] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[09Mar2025 19:29:19.082] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[09Mar2025 19:29:19.086] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[09Mar2025 19:29:19.089] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[09Mar2025 19:29:19.502] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 17 dependencies adding them to mods collection
+[09Mar2025 19:29:23.147] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09Mar2025 19:29:23.393] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[09Mar2025 19:29:23.823] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[09Mar2025 19:29:23.922] [main/INFO] [Puzzles Lib/]: Loading 53 mods:
 	- architectury 9.2.14
 	- blueprint 7.1.0
 	- caelus 3.2.0+1.20.1
@@ -64,53 +64,57 @@
 	- unusualend 2.2.3
 	- villagercomfort 1.20.1-1.0.2
 	- yungsapi 1.20-Forge-4.0.6
-[09Mar2025 19:00:11.831] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[09Mar2025 19:00:13.518] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[09Mar2025 19:00:13.526] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[09Mar2025 19:00:13.527] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[09Mar2025 19:00:16.388] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[09Mar2025 19:00:29.935] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
-[09Mar2025 19:00:31.550] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[09Mar2025 19:00:31.551] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[09Mar2025 19:00:33.855] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[09Mar2025 19:00:34.635] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[09Mar2025 19:00:34.726] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
-[09Mar2025 19:00:34.743] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
-[09Mar2025 19:00:34.801] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[09Mar2025 19:00:39.867] [main/INFO] [Moonlight/]: Initialized block sets in 21ms
-[09Mar2025 19:00:41.598] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[09Mar2025 19:00:41.608] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[09Mar2025 19:00:42.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
-[09Mar2025 19:00:42.994] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: OUTDATED Current: 8.0.6 Target: 8.0.7
-[09Mar2025 19:00:42.999] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[09Mar2025 19:00:43.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[09Mar2025 19:00:43.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[09Mar2025 19:00:43.283] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[09Mar2025 19:00:43.283] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[09Mar2025 19:00:43.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.53 Target: null
-[09Mar2025 19:00:43.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[09Mar2025 19:00:43.428] [main/INFO] [Moonlight/]: Initialized color sets in 96ms
-[09Mar2025 19:00:43.437] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[09Mar2025 19:00:43.437] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[09Mar2025 19:00:43.437] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
-[09Mar2025 19:00:43.439] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
-[09Mar2025 19:00:43.439] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[09Mar2025 19:00:43.593] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[09Mar2025 19:00:43.928] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[09Mar2025 19:00:43.929] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[09Mar2025 19:00:44.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
-[09Mar2025 19:00:44.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[09Mar2025 19:00:44.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.24 Target: 8.1.29
-[09Mar2025 19:00:48.183] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09Mar2025 19:00:51.239] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/assets/.mcassetsroot' uses unexpected schema
-[09Mar2025 19:00:51.240] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/data/.mcassetsroot' uses unexpected schema
-[09Mar2025 19:00:51.375] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
-[09Mar2025 19:00:54.393] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_3 as it is missing following references: enlightened_end:enduring_waste (from enlightend-5.0.14-1.20.1.jar), 
+[09Mar2025 19:29:23.954] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Mar2025 19:29:25.356] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[09Mar2025 19:29:25.357] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[09Mar2025 19:29:25.357] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[09Mar2025 19:29:28.083] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[09Mar2025 19:29:39.721] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
+[09Mar2025 19:29:41.231] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[09Mar2025 19:29:41.232] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[09Mar2025 19:29:43.586] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[09Mar2025 19:29:44.436] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[09Mar2025 19:29:44.511] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[09Mar2025 19:29:44.517] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[09Mar2025 19:29:44.559] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[09Mar2025 19:29:49.895] [main/INFO] [Moonlight/]: Initialized block sets in 33ms
+[09Mar2025 19:29:51.559] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[09Mar2025 19:29:51.570] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[09Mar2025 19:29:51.996] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
+[09Mar2025 19:29:52.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: OUTDATED Current: 8.0.6 Target: 8.0.7
+[09Mar2025 19:29:52.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[09Mar2025 19:29:52.747] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[09Mar2025 19:29:52.747] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09Mar2025 19:29:53.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[09Mar2025 19:29:53.021] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[09Mar2025 19:29:53.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.53 Target: null
+[09Mar2025 19:29:53.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[09Mar2025 19:29:53.083] [main/INFO] [Moonlight/]: Initialized color sets in 80ms
+[09Mar2025 19:29:53.092] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[09Mar2025 19:29:53.092] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[09Mar2025 19:29:53.093] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[09Mar2025 19:29:53.093] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[09Mar2025 19:29:53.093] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[09Mar2025 19:29:53.258] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[09Mar2025 19:29:53.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[09Mar2025 19:29:53.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[09Mar2025 19:29:53.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[09Mar2025 19:29:53.544] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[09Mar2025 19:29:53.554] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.24 Target: 8.1.29
+[09Mar2025 19:29:57.660] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09Mar2025 19:30:00.402] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/assets/.mcassetsroot' uses unexpected schema
+[09Mar2025 19:30:00.403] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/data/.mcassetsroot' uses unexpected schema
+[09Mar2025 19:30:00.581] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[09Mar2025 19:30:03.542] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag unusualend:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[09Mar2025 19:30:03.543] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[09Mar2025 19:30:03.745] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag enlightened_end:cerulean_stalk_blocks as it is missing following references: enlightened_end:cerulean_stalk_block (from enlightend-5.0.14-1.20.1.jar), 
+	enlightened_end:stripped_cerulean_stalk_block (from enlightend-5.0.14-1.20.1.jar)
+[09Mar2025 19:30:03.845] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_3 as it is missing following references: enlightened_end:enduring_waste (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:voidsteel_block (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:adamantite_plate_block (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:adamantite_glass (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:adamantite_glass_pane (from enlightend-5.0.14-1.20.1.jar)
-[09Mar2025 19:00:54.394] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_0 as it is missing following references: enlightened_end:chiseled_purpur (from enlightend-5.0.14-1.20.1.jar), 
+[09Mar2025 19:30:03.846] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_0 as it is missing following references: enlightened_end:chiseled_purpur (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:purpur_lamp (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:infested_end_stone (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:congealed_eylium (from enlightend-5.0.14-1.20.1.jar), 
@@ -131,7 +135,7 @@
 	enlightened_end:chiseled_nullstone (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:nullstone_lamp (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:voikrust_lamp (from enlightend-5.0.14-1.20.1.jar)
-[09Mar2025 19:00:54.401] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_2 as it is missing following references: enlightened_end:waxed_bismuth_stairs (from enlightend-5.0.14-1.20.1.jar), 
+[09Mar2025 19:30:03.848] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_2 as it is missing following references: enlightened_end:waxed_bismuth_stairs (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:waxed_bismuth_slab (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:infernal_bismuth_sheets (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:infernal_bismuth_sheet_stairs (from enlightend-5.0.14-1.20.1.jar), 
@@ -161,7 +165,7 @@
 	enlightened_end:repulsium_cluster (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:atractonite_block (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:atractonite_cluster (from enlightend-5.0.14-1.20.1.jar)
-[09Mar2025 19:00:54.406] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_1 as it is missing following references: enlightened_end:malachite_pillar (from enlightend-5.0.14-1.20.1.jar), 
+[09Mar2025 19:30:03.852] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_1 as it is missing following references: enlightened_end:malachite_pillar (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:smooth_malachite (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:smooth_malachite_stairs (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:smooth_malachite_slab (from enlightend-5.0.14-1.20.1.jar), 
@@ -199,15 +203,11 @@
 	enlightened_end:ennegel_hang_generate (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:enderneath_replace (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:enderneath_replace_chance (from enlightend-5.0.14-1.20.1.jar)
-[09Mar2025 19:00:54.427] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag unusualend:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
-[09Mar2025 19:00:54.428] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
-[09Mar2025 19:00:54.536] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag enlightened_end:cerulean_stalk_blocks as it is missing following references: enlightened_end:cerulean_stalk_block (from enlightend-5.0.14-1.20.1.jar), 
-	enlightened_end:stripped_cerulean_stalk_block (from enlightend-5.0.14-1.20.1.jar)
-[09Mar2025 19:00:54.657] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/aether_tower as it is missing following references: #aether:is_aether (from totw_modded-forge-1.20.1-1.0.5.jar)
-[09Mar2025 19:00:54.658] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/moon_tower as it is missing following references: ad_astra:lunar_wastelands (from totw_modded-forge-1.20.1-1.0.5.jar)
-[09Mar2025 19:00:54.658] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/tw_mangrove_tower as it is missing following references: twilightforest:swamp (from totw_modded-forge-1.20.1-1.0.5.jar), 
+[09Mar2025 19:30:03.994] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/aether_tower as it is missing following references: #aether:is_aether (from totw_modded-forge-1.20.1-1.0.5.jar)
+[09Mar2025 19:30:03.995] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/moon_tower as it is missing following references: ad_astra:lunar_wastelands (from totw_modded-forge-1.20.1-1.0.5.jar)
+[09Mar2025 19:30:03.996] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/tw_mangrove_tower as it is missing following references: twilightforest:swamp (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	twilightforest:fire_swamp (from totw_modded-forge-1.20.1-1.0.5.jar)
-[09Mar2025 19:00:54.659] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/everdawn_tower as it is missing following references: blue_skies:unorthodox_valley (from totw_modded-forge-1.20.1-1.0.5.jar), 
+[09Mar2025 19:30:03.997] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/everdawn_tower as it is missing following references: blue_skies:unorthodox_valley (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:shaded_woodlands (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:crystal_dunes (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:crystal_dunes_spikes (from totw_modded-forge-1.20.1-1.0.5.jar), 
@@ -216,11 +216,11 @@
 	blue_skies:crystal_roughs (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:searing_grassland (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:crescent_orchard (from totw_modded-forge-1.20.1-1.0.5.jar)
-[09Mar2025 19:00:54.660] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/ratlantis_tower as it is missing following references: rats:ratlantis (from totw_modded-forge-1.20.1-1.0.5.jar)
-[09Mar2025 19:00:54.661] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/tw_canopy_tower as it is missing following references: twilightforest:forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
+[09Mar2025 19:30:03.999] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/ratlantis_tower as it is missing following references: rats:ratlantis (from totw_modded-forge-1.20.1-1.0.5.jar)
+[09Mar2025 19:30:03.999] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/tw_canopy_tower as it is missing following references: twilightforest:forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	twilightforest:spooky_forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	twilightforest:mushroom_forest (from totw_modded-forge-1.20.1-1.0.5.jar)
-[09Mar2025 19:00:54.661] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/everbright_tower as it is missing following references: blue_skies:calming_skies (from totw_modded-forge-1.20.1-1.0.5.jar), 
+[09Mar2025 19:30:04.001] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/everbright_tower as it is missing following references: blue_skies:calming_skies (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:brightlands (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:slushlands (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:frostbitten_forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
@@ -228,13 +228,13 @@
 	blue_skies:snow_covered_pines (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:brisk_meadow (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	blue_skies:polar_highland (from totw_modded-forge-1.20.1-1.0.5.jar)
-[09Mar2025 19:00:54.663] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/mars_tower as it is missing following references: ad_astra:martian_canyon_creek (from totw_modded-forge-1.20.1-1.0.5.jar), 
+[09Mar2025 19:30:04.002] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/mars_tower as it is missing following references: ad_astra:martian_canyon_creek (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	ad_astra:martian_wastelands (from totw_modded-forge-1.20.1-1.0.5.jar)
-[09Mar2025 19:00:54.665] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/venus_tower as it is missing following references: ad_astra:infernal_venus_barrens (from totw_modded-forge-1.20.1-1.0.5.jar)
-[09Mar2025 19:00:54.665] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/glacio_tower as it is missing following references: ad_astra:glacio_snowy_barrens (from totw_modded-forge-1.20.1-1.0.5.jar), 
+[09Mar2025 19:30:04.002] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/venus_tower as it is missing following references: ad_astra:infernal_venus_barrens (from totw_modded-forge-1.20.1-1.0.5.jar)
+[09Mar2025 19:30:04.003] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/glacio_tower as it is missing following references: ad_astra:glacio_snowy_barrens (from totw_modded-forge-1.20.1-1.0.5.jar), 
 	ad_astra:glacio_ice_peaks (from totw_modded-forge-1.20.1-1.0.5.jar)
-[09Mar2025 19:00:54.665] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/mercury_tower as it is missing following references: ad_astra:mercury_deltas (from totw_modded-forge-1.20.1-1.0.5.jar)
-[09Mar2025 19:00:55.804] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:enlightened_end:entities/sacrifice_statue_gift
+[09Mar2025 19:30:04.003] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/mercury_tower as it is missing following references: ad_astra:mercury_deltas (from totw_modded-forge-1.20.1-1.0.5.jar)
+[09Mar2025 19:30:05.062] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:enlightened_end:entities/sacrifice_statue_gift
 com.google.gson.JsonSyntaxException: Unknown enchantment 'enlightened_end:frost_aspect'
 	at net.minecraft.world.level.storage.loot.functions.EnchantRandomlyFunction$Serializer.m_80465_(EnchantRandomlyFunction.java:137) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -296,12 +296,12 @@ com.google.gson.JsonSyntaxException: Unknown enchantment 'enlightened_end:frost_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[09Mar2025 19:00:56.547] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 1 modifier groups
-[09Mar2025 19:00:56.733] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_stems_sawing as it's serializer returned null
-[09Mar2025 19:00:56.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_planks_sawing as it's serializer returned null
-[09Mar2025 19:00:56.774] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_beehive as it's serializer returned null
-[09Mar2025 19:00:56.796] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_purpur_block_from_baking as it's serializer returned null
-[09Mar2025 19:00:56.805] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+[09Mar2025 19:30:05.830] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 1 modifier groups
+[09Mar2025 19:30:06.080] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_stems_sawing as it's serializer returned null
+[09Mar2025 19:30:06.085] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_planks_sawing as it's serializer returned null
+[09Mar2025 19:30:06.148] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_beehive as it's serializer returned null
+[09Mar2025 19:30:06.173] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_purpur_block_from_baking as it's serializer returned null
+[09Mar2025 19:30:06.184] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
 com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -339,18 +339,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[09Mar2025 19:00:56.820] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_stems_sawing as it's serializer returned null
-[09Mar2025 19:00:56.890] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_trapdoor_from_poise_stems_sawing as it's serializer returned null
-[09Mar2025 19:00:56.931] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_furnace_boat as it's serializer returned null
-[09Mar2025 19:00:56.960] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_planks_sawing as it's serializer returned null
-[09Mar2025 19:00:56.976] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:chiseled_poise_bookshelf as it's serializer returned null
-[09Mar2025 19:00:56.977] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_planks_from_poise_stems_sawing as it's serializer returned null
-[09Mar2025 19:00:56.979] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:eumus_brick_from_baking as it's serializer returned null
-[09Mar2025 19:00:57.145] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_gate_from_poise_stems_sawing as it's serializer returned null
-[09Mar2025 19:00:57.155] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder as it's serializer returned null
-[09Mar2025 19:00:57.155] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_door_from_poise_stems_sawing as it's serializer returned null
-[09Mar2025 19:00:57.172] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:trapped_poise_chest as it's serializer returned null
-[09Mar2025 19:00:57.179] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe famersdelight:adamantite_knife_smithing
+[09Mar2025 19:30:06.210] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_stems_sawing as it's serializer returned null
+[09Mar2025 19:30:06.328] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_trapdoor_from_poise_stems_sawing as it's serializer returned null
+[09Mar2025 19:30:06.372] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_furnace_boat as it's serializer returned null
+[09Mar2025 19:30:06.411] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_planks_sawing as it's serializer returned null
+[09Mar2025 19:30:06.428] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:chiseled_poise_bookshelf as it's serializer returned null
+[09Mar2025 19:30:06.430] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_planks_from_poise_stems_sawing as it's serializer returned null
+[09Mar2025 19:30:06.431] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:eumus_brick_from_baking as it's serializer returned null
+[09Mar2025 19:30:06.554] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_gate_from_poise_stems_sawing as it's serializer returned null
+[09Mar2025 19:30:06.562] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder as it's serializer returned null
+[09Mar2025 19:30:06.563] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_door_from_poise_stems_sawing as it's serializer returned null
+[09Mar2025 19:30:06.582] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:trapped_poise_chest as it's serializer returned null
+[09Mar2025 19:30:06.590] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe famersdelight:adamantite_knife_smithing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -379,95 +379,123 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[09Mar2025 19:00:57.189] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_eumus_bricks_from_baking as it's serializer returned null
-[09Mar2025 19:00:57.198] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards as it's serializer returned null
-[09Mar2025 19:00:57.203] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_sign_from_poise_stems_sawing as it's serializer returned null
-[09Mar2025 19:00:57.206] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_stems_sawing as it's serializer returned null
-[09Mar2025 19:00:57.213] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_stems_sawing as it's serializer returned null
-[09Mar2025 19:00:57.216] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_planks_sawing as it's serializer returned null
-[09Mar2025 19:00:57.220] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_bookshelf as it's serializer returned null
-[09Mar2025 19:00:57.223] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_planks_sawing as it's serializer returned null
-[09Mar2025 19:00:57.238] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_pressure_plate_from_poise_stems_sawing as it's serializer returned null
-[09Mar2025 19:00:57.242] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_stems_sawing as it's serializer returned null
-[09Mar2025 19:00:57.242] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:large_poise_boat as it's serializer returned null
-[09Mar2025 19:00:57.254] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_planks_sawing as it's serializer returned null
-[09Mar2025 19:00:57.259] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_planks_sawing as it's serializer returned null
-[09Mar2025 19:00:57.263] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_end_stone_bricks_from_baking as it's serializer returned null
-[09Mar2025 19:00:57.268] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_stems_sawing as it's serializer returned null
-[09Mar2025 19:00:57.270] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_chest as it's serializer returned null
-[09Mar2025 19:00:57.276] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
-[09Mar2025 19:00:57.285] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 5 modifier groups
-[09Mar2025 19:00:57.553] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement totw_modded:root: Expected item to be an item, was unknown string 'waystones:mossy_waystone'
-[09Mar2025 19:00:57.698] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:regular_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@24542863, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ffda9c0}, criteria={regular=net.minecraft.advancements.Criterion@7124ef4c}, requirements=[[regular]], sends_telemetry_event=false}
-[09Mar2025 19:00:57.711] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:derelict_grass_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@6e213776, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ffda9c0}, criteria={derelict_grass=net.minecraft.advancements.Criterion@38a9eb71}, requirements=[[derelict_grass]], sends_telemetry_event=false}
-[09Mar2025 19:00:57.712] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:derelict_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@2fd2911a, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ffda9c0}, criteria={derelict=net.minecraft.advancements.Criterion@58d715f2}, requirements=[[derelict]], sends_telemetry_event=false}
-[09Mar2025 19:00:57.713] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:ice_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@37af6e14, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ffda9c0}, criteria={ice=net.minecraft.advancements.Criterion@57378596}, requirements=[[ice]], sends_telemetry_event=false}
-[09Mar2025 19:00:57.713] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:jungle_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@c17679e, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@1ffda9c0}, criteria={jungle=net.minecraft.advancements.Criterion@67e758bf}, requirements=[[jungle]], sends_telemetry_event=false}
-[09Mar2025 19:00:57.714] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3531 advancements
-[09Mar2025 19:00:57.732] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 1 modifier groups
-[09Mar2025 19:00:57.762] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[09Mar2025 19:00:57.772] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[09Mar2025 19:00:57.775] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[09Mar2025 19:00:57.804] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: netherexp:sounds/polished_blackstone
-[09Mar2025 19:00:57.847] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: totw_modded:has_structure/aether_tower, totw_modded:has_structure/everbright_tower, totw_modded:has_structure/everdawn_tower, totw_modded:has_structure/glacio_tower, totw_modded:has_structure/mars_tower, totw_modded:has_structure/mercury_tower, totw_modded:has_structure/moon_tower, totw_modded:has_structure/ratlantis_tower, totw_modded:has_structure/tw_canopy_tower, totw_modded:has_structure/tw_mangrove_tower, totw_modded:has_structure/venus_tower
-[09Mar2025 19:01:00.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[09Mar2025 19:01:00.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[09Mar2025 19:01:00.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[09Mar2025 19:01:00.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[09Mar2025 19:01:00.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[09Mar2025 19:01:00.368] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[09Mar2025 19:01:00.475] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09Mar2025 19:01:00.479] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[09Mar2025 19:01:00.480] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09Mar2025 19:01:00.481] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[09Mar2025 19:01:00.512] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
-[09Mar2025 19:01:00.513] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
-[09Mar2025 19:01:00.515] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
-[09Mar2025 19:01:00.718] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
-[09Mar2025 19:01:00.721] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
-[09Mar2025 19:01:00.746] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[09Mar2025 19:01:01.531] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[09Mar2025 19:01:01.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[09Mar2025 19:01:13.988] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "blueprint:modded".
-[09Mar2025 19:01:13.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[09Mar2025 19:01:21.983] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:21.999] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.000] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.001] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.002] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.004] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.006] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.015] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.016] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.017] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.021] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.026] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.027] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.033] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.036] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.044] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.046] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:22.498] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:23.005] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:23.498] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:24.317] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Mar2025 19:01:24.498] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
-[09Mar2025 19:01:25.104] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11107 ms
-[09Mar2025 19:01:25.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (24.601s)! For help, type "help"
-[09Mar2025 19:01:25.228] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[09Mar2025 19:01:41.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Miguelito_Liru[/127.78.135.78:50975] logged in with entity id 146 at (-510.5, 103.0, -9910.5)
-[09Mar2025 19:01:41.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguelito_Liru joined the game
-[09Mar2025 19:01:58.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17002ms or 340 ticks behind
-[09Mar2025 19:02:40.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Miguelito_Liru lost connection: Disconnected
-[09Mar2025 19:02:40.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguelito_Liru left the game
-[09Mar2025 19:02:45.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[09Mar2025 19:02:45.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[09Mar2025 19:02:45.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[09Mar2025 19:02:45.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[09Mar2025 19:02:46.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09Mar2025 19:02:47.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09Mar2025 19:02:47.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09Mar2025 19:02:47.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09Mar2025 19:02:47.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09Mar2025 19:02:47.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09Mar2025 19:02:47.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Mar2025 19:30:06.603] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_eumus_bricks_from_baking as it's serializer returned null
+[09Mar2025 19:30:06.617] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards as it's serializer returned null
+[09Mar2025 19:30:06.623] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_sign_from_poise_stems_sawing as it's serializer returned null
+[09Mar2025 19:30:06.625] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_stems_sawing as it's serializer returned null
+[09Mar2025 19:30:06.634] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_stems_sawing as it's serializer returned null
+[09Mar2025 19:30:06.644] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_planks_sawing as it's serializer returned null
+[09Mar2025 19:30:06.651] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_bookshelf as it's serializer returned null
+[09Mar2025 19:30:06.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_planks_sawing as it's serializer returned null
+[09Mar2025 19:30:06.668] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_pressure_plate_from_poise_stems_sawing as it's serializer returned null
+[09Mar2025 19:30:06.677] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_stems_sawing as it's serializer returned null
+[09Mar2025 19:30:06.681] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:large_poise_boat as it's serializer returned null
+[09Mar2025 19:30:06.695] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_planks_sawing as it's serializer returned null
+[09Mar2025 19:30:06.699] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_planks_sawing as it's serializer returned null
+[09Mar2025 19:30:06.700] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_end_stone_bricks_from_baking as it's serializer returned null
+[09Mar2025 19:30:06.710] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_stems_sawing as it's serializer returned null
+[09Mar2025 19:30:06.714] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_chest as it's serializer returned null
+[09Mar2025 19:30:06.723] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
+[09Mar2025 19:30:06.731] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 5 modifier groups
+[09Mar2025 19:30:06.940] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement totw_modded:root: Expected item to be an item, was unknown string 'waystones:mossy_waystone'
+[09Mar2025 19:30:07.059] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:regular_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@2dd770a6, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@3554c1d2}, criteria={regular=net.minecraft.advancements.Criterion@4244dee1}, requirements=[[regular]], sends_telemetry_event=false}
+[09Mar2025 19:30:07.059] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:derelict_grass_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@6ef4f143, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@3554c1d2}, criteria={derelict_grass=net.minecraft.advancements.Criterion@a2399aa}, requirements=[[derelict_grass]], sends_telemetry_event=false}
+[09Mar2025 19:30:07.060] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:derelict_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@33dc565f, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@3554c1d2}, criteria={derelict=net.minecraft.advancements.Criterion@25246747}, requirements=[[derelict]], sends_telemetry_event=false}
+[09Mar2025 19:30:07.061] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:ice_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@441e7ccc, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@3554c1d2}, criteria={ice=net.minecraft.advancements.Criterion@42863557}, requirements=[[ice]], sends_telemetry_event=false}
+[09Mar2025 19:30:07.061] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:jungle_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@1b3fae5, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@3554c1d2}, criteria={jungle=net.minecraft.advancements.Criterion@726c4b09}, requirements=[[jungle]], sends_telemetry_event=false}
+[09Mar2025 19:30:07.062] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3531 advancements
+[09Mar2025 19:30:07.076] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 1 modifier groups
+[09Mar2025 19:30:07.095] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[09Mar2025 19:30:07.115] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[09Mar2025 19:30:07.120] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[09Mar2025 19:30:07.186] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: netherexp:sounds/polished_blackstone
+[09Mar2025 19:30:07.225] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: totw_modded:has_structure/aether_tower, totw_modded:has_structure/everbright_tower, totw_modded:has_structure/everdawn_tower, totw_modded:has_structure/glacio_tower, totw_modded:has_structure/mars_tower, totw_modded:has_structure/mercury_tower, totw_modded:has_structure/moon_tower, totw_modded:has_structure/ratlantis_tower, totw_modded:has_structure/tw_canopy_tower, totw_modded:has_structure/tw_mangrove_tower, totw_modded:has_structure/venus_tower
+[09Mar2025 19:30:09.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[09Mar2025 19:30:09.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Mar2025 19:30:09.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Mar2025 19:30:09.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Mar2025 19:30:09.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Mar2025 19:30:09.840] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[09Mar2025 19:30:09.954] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09Mar2025 19:30:09.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09Mar2025 19:30:09.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09Mar2025 19:30:09.956] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09Mar2025 19:30:10.004] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
+[09Mar2025 19:30:10.008] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[09Mar2025 19:30:10.012] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[09Mar2025 19:30:10.320] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
+[09Mar2025 19:30:10.320] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
+[09Mar2025 19:30:10.878] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[09Mar2025 19:30:10.879] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[09Mar2025 19:30:10.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09Mar2025 19:30:23.232] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "blueprint:modded".
+[09Mar2025 19:30:23.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Mar2025 19:30:30.678] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.683] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.685] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.685] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.686] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.687] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.688] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.689] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.689] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.693] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.694] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.695] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.696] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.697] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.701] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:30.739] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:31.239] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:31.739] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:32.239] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2025 19:30:33.152] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9914 ms
+[09Mar2025 19:30:33.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.169s)! For help, type "help"
+[09Mar2025 19:30:33.219] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09Mar2025 19:32:25.627] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13d44adf[id=<null>,name=Miguelito_Liru,properties={},legacy=false] (/127.78.135.78:52233) lost connection: Disconnected
+[09Mar2025 19:32:25.673] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Mar2025 19:35:17.771] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a2af871[id=<null>,name=Miguelito_Liru,properties={},legacy=false] (/127.78.135.78:42041) lost connection: Disconnected
+[09Mar2025 19:35:57.371] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5619293e[id=<null>,name=Miguelito_Liru,properties={},legacy=false] (/127.78.135.78:40401) lost connection: Disconnected
+[09Mar2025 19:37:53.721] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3329fbbe[id=<null>,name=Miguelito_Liru,properties={},legacy=false] (/127.78.135.78:46349) lost connection: Disconnected
+[09Mar2025 19:44:13.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Miguelito_Liru[/127.78.135.78:39965] logged in with entity id 149 at (-524.9038242887251, 71.0, -9939.523199014891)
+[09Mar2025 19:44:14.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguelito_Liru joined the game
+[09Mar2025 19:44:17.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3996ms or 79 ticks behind
+[09Mar2025 19:44:46.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13918ms or 278 ticks behind
+[09Mar2025 19:45:03.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[09Mar2025 19:47:23.754] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:cherry_grove took 829 ms
+[09Mar2025 19:47:28.348] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Mar2025 19:47:28.350] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Mar2025 19:47:30.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguelito_Liru: Teleported Miguelito_Liru to 616.500000, 71.000000, -9060.500000]
+[09Mar2025 19:47:30.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3699ms or 73 ticks behind
+[09Mar2025 19:47:49.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguelito_Liru: Set own game mode to Spectator Mode]
+[09Mar2025 19:48:01.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguelito_Liru: Set own game mode to Survival Mode]
+[09Mar2025 19:48:05.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguelito_Liru: Set own game mode to Creative Mode]
+[09Mar2025 19:48:10.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguelito_Liru: Set the world spawn point to 642, 112, -9047 [0.0]]
+[09Mar2025 19:48:13.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguelito_Liru: Set own game mode to Survival Mode]
+[09Mar2025 19:48:15.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguelito_Liru was killed
+[09Mar2025 19:48:15.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguelito_Liru: Killed Miguelito_Liru]
+[09Mar2025 19:51:32.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguelito_Liru was slain by Spider
+[09Mar2025 19:51:49.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguelito_Liru was slain by Zombie
+[09Mar2025 19:52:15.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Miguelito_Liru lost connection: Timed out
+[09Mar2025 19:52:15.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguelito_Liru left the game
+[09Mar2025 19:52:15.786] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Mar2025 19:52:40.522] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@867b7f[id=<null>,name=Miguelito_Liru,properties={},legacy=false] (/127.78.135.78:35381) lost connection: Internal Exception: java.util.ConcurrentModificationException
+[09Mar2025 19:52:47.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Miguelito_Liru[/127.78.135.78:46719] logged in with entity id 3853 at (635.5, 119.0, -9049.5)
+[09Mar2025 19:52:47.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguelito_Liru joined the game
+[09Mar2025 19:53:17.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Miguelito_Liru lost connection: Timed out
+[09Mar2025 19:53:17.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguelito_Liru left the game
+[09Mar2025 19:53:37.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Miguelito_Liru[/127.78.135.78:36251] logged in with entity id 3961 at (635.5, 119.0, -9049.5)
+[09Mar2025 19:53:37.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguelito_Liru joined the game
+[09Mar2025 19:54:07.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Miguelito_Liru lost connection: Timed out
+[09Mar2025 19:54:07.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguelito_Liru left the game
+[09Mar2025 19:56:16.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Mar2025 19:56:16.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Mar2025 19:56:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Mar2025 19:56:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Mar2025 19:56:16.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Mar2025 19:56:18.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Mar2025 19:56:18.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Mar2025 19:56:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Mar2025 19:56:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Mar2025 19:56:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Mar2025 19:56:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
