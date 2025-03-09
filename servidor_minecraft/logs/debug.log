@@ -805,3 +805,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Mar2025 17:00:59.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
 [09Mar2025 17:00:59.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
 [09Mar2025 17:00:59.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[09Mar2025 17:03:01.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 17:03:01.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 17:03:41.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Mar2025 17:03:41.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jfr/stop<--[HERE]
+[09Mar2025 17:03:55.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Mar2025 17:03:55.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jfr/stop<--[HERE]
+[09Mar2025 17:04:18.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Mar2025 17:04:18.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jfr<--[HERE]
+[09Mar2025 17:05:52.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Mar2025 17:05:52.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jfr<--[HERE]
+[09Mar2025 17:08:01.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 17:08:01.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
